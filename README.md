@@ -3,5 +3,5 @@ The wav2lip algorithm has shown excellent performance in scientific data, but it
 1. DSTN
 2. FILTER
 3. Wav2Lip
-DSTN: https://github.com/breizhn/DTLN
-Wav2Lip: https://github.com/Rudrabha/Wav2Lip
+4.you can get the source DSTN: https://github.com/breizhn/DTLN
+                         Wav2Lip: https://github.com/Rudrabha/Wav2Lip
