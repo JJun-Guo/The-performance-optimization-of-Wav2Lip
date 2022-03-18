@@ -3,4 +3,3 @@ The wav2lip algorithm has shown excellent performance in scientific data, but it
 1. DTLN
 2. FILTER
 3. Wav2Lip
-4.you can get the source DTLN: https://github.com/breizhn/DTLN  Wav2Lip: https://github.com/Rudrabha/Wav2Lip
